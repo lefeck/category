@@ -1,7 +1,3 @@
-### 课程中的 
-git.imooc.com/`cap1573`/category 
-需要更改为 
-git.imooc.com/`coding-447`/category
 # Category service 
 Go微服务定制容器
 名称为 Category 类型 service 
